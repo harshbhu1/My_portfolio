@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/My_portfolio/static/css/main.02e7db51.css",
+    "main.js": "/My_portfolio/static/js/main.f250348e.js",
+    "static/media/spotify-logo.png": "/My_portfolio/static/media/spotify-logo.8d8c002ed6d9ab68c183.png",
+    "static/media/fastfood.png": "/My_portfolio/static/media/fastfood.0bc63a3b2a54b1f706d6.png",
+    "static/media/nextplacepicker.png": "/My_portfolio/static/media/nextplacepicker.57b055e1a1e7f1689bde.png",
+    "static/media/Python-logo.png": "/My_portfolio/static/media/Python-logo.dea924d737bb84eb9ce3.png",
+    "static/media/react-logo.png": "/My_portfolio/static/media/react-logo.582cbc784710a3dbe704.png",
+    "static/media/portfolio-logo.png": "/My_portfolio/static/media/portfolio-logo.43f25d98f784f13a8423.png",
+    "static/media/upboard-logo.svg": "/My_portfolio/static/media/upboard-logo.e68a4d24f5c81415bb88.svg",
+    "static/media/hbtu-logo.png": "/My_portfolio/static/media/hbtu-logo.6ad11db231aff320b3c7.png",
+    "static/media/project1.logo.png": "/My_portfolio/static/media/project1.logo.f7186b0e502166a26542.png",
+    "static/media/CSS3-logo.png": "/My_portfolio/static/media/CSS3-logo.b3314d1beb073984276d.png",
+    "static/media/vscode-logo.png": "/My_portfolio/static/media/vscode-logo.691f776a11a21a483030.png",
+    "static/media/CPP-logo.png": "/My_portfolio/static/media/CPP-logo.053a898d752aef72651e.png",
+    "static/media/bootstrap-logo.png": "/My_portfolio/static/media/bootstrap-logo.9cd429090069a189475b.png",
+    "static/media/JavaScript-logo.png": "/My_portfolio/static/media/JavaScript-logo.062825dbceed44567e91.png",
+    "static/media/C-logo.png": "/My_portfolio/static/media/C-logo.bbbbbabc8c191bfb99bf.png",
+    "static/media/diploma-logo.jpeg": "/My_portfolio/static/media/diploma-logo.ef0181eb7466c5931728.jpeg",
+    "static/media/nodejs-logo.svg": "/My_portfolio/static/media/nodejs-logo.d4fa7d43a57af82fc444.svg",
+    "static/media/java-logo.svg": "/My_portfolio/static/media/java-logo.a751bad6c81431ab4dd6.svg",
+    "index.html": "/My_portfolio/index.html",
+    "main.02e7db51.css.map": "/My_portfolio/static/css/main.02e7db51.css.map",
+    "main.f250348e.js.map": "/My_portfolio/static/js/main.f250348e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02e7db51.css",
+    "static/js/main.f250348e.js"
+  ]
+}
